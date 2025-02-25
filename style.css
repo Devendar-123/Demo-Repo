@@ -53,3 +53,16 @@ button:hover{
 label{
     font-weight: bold;
 }
+
+}
+
+table{
+    margin-left: 37vw;
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 2px solid orange;
+    padding: 10px;
+
+}
