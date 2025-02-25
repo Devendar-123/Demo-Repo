@@ -57,12 +57,58 @@ label{
 }
 
 table{
-    margin-left: 37vw;
+    margin-left: 25vw;
     border-collapse: collapse;
+    width: 50%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+caption{
+    font-size: 23px;
 }
 
 td,th{
-    border: 2px solid orange;
+    border: 2px solid rgb(27, 26, 24);
     padding: 10px;
 
 }
+
+
+#one{
+    color: rgb(108, 238, 48);
+    background-color: #475263;
+}
+#two{
+    color: rgb(77, 63, 75);
+    background-color: #cedf89;
+}
+#three{
+    color: rgb(230, 233, 233);
+    background-color: #390b22;
+}
+#four{
+    color: aqua;
+    background-color: #3d863e;
+}
+#five{
+    color: rgb(1, 25, 25);
+    background-color: #b382b9;
+}
+#six{
+    color: rgb(251, 251, 78);
+    background-color: #ebdbdb;
+}
+#seven{
+    color: rgb(8, 26, 100);
+    background-color: #e17f7f;
+}
+#eight{
+    color: rgb(16, 18, 5);
+    background-color: #cac2c2;
+}
+#nine{
+    color: aqua;
+    background-color: #1a1818;
+}
+
